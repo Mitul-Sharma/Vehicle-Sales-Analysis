@@ -37,6 +37,7 @@ ALTER TABLE car_sales
 MODIFY COLUMN Sales_in_thousands DECIMAL(10,3),
 MODIFY COLUMN Price_in_thousands DECIMAL(10,3),
 MODIFY COLUMN Fuel_efficiency INT;
+```
 
 ---
 Data Visualizations📊 Vehicle Sales Dashboard (Overview)🔥 Sales Performance: Toyota Model ComparisonI filtered the dashboard to analyze the sales and pricing of the top Toyota models.Vehicle ModelTotal Sales (Thousands)Average Price ($K)Camry247.9917.52Corolla142.5413.11Avalon63.8525.55Celica33.2716.88💡 Key Insight: The Camry is the dominant volume leader, accounting for over 50% of sales in this subset. This shows that the market favors mid-range pricing over high-end luxury models like the Avalon.📉 Does Luxury Cost the Planet? (Price vs. MPG)Insight: This scatter plot analyzes the relationship between vehicle price and fuel efficiency. As the Price in thousands increases, Fuel Efficiency (MPG) generally decreases, showing a clear trade-off between luxury/performance and environmental impact.
