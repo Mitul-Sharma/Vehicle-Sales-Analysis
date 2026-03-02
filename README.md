@@ -64,14 +64,14 @@ I filtered the dashboard to analyze the sales and pricing of the top Toyota mode
 ---
 
 ### 📉 Does Luxury Cost the Planet? (Price vs. MPG)
-![Price vs MPG Chart](./Screenshots/price_vs_mpg.png)
+![Price vs MPG Chart](./Price_MPG_chart.png)
 
 **Insight:** This scatter plot analyzes the relationship between vehicle price and fuel efficiency. As the **Price in thousands** increases, **Fuel Efficiency (MPG)** generally decreases, showing a clear trade-off between luxury/performance and environmental impact.
 
 ---
 
 ### 🍩 Market Share: Fuel Efficiency by Model
-![Efficiency Chart](./Screenshots/efficiency_chart.png)
+![Efficiency Chart](./Efficiency_chart.png)
 
 **Insight:** While the Camry leads in sales, the **Corolla** leads in efficiency (33 MPG). This visualization helps consumers choose models based on their priority: volume/space vs. fuel savings.
 
