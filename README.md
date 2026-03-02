@@ -45,7 +45,7 @@ MODIFY COLUMN Fuel_efficiency INT;
 ## Data Visualizations
 
 ### 📊 Vehicle Sales Dashboard (Overview)
-![Dashboard Screenshot](./Screenshots/your_dashboard_image.png)
+![Dashboard Screenshot](./dashboard_overview.png)
 
 ---
 
