@@ -68,13 +68,11 @@ I filtered the dashboard to analyze the sales and pricing of the top Toyota mode
 
 ---
 
-### 🍩 Market Share: Fuel Efficiency by Model
+###  Market Share: Fuel Efficiency by Model
 ![Efficiency Chart](./Screenshots/efficiency_chart.png)
 
 **Insight:** While the Camry leads in sales, the **Corolla** leads in efficiency (33 MPG). This visualization helps consumers choose models based on their priority: volume/space vs. fuel savings.
 
-
-
-
+---
 
 
