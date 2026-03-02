@@ -19,8 +19,9 @@ The raw data contained several inconsistencies that prevented mathematical analy
 ## 🛠️ Tech Stack & Data
 * **Database:** MySQL (Data Cleaning & Analysis)
 * **Visualization:** Power BI
-* **SQL Scripts:** [View SQL Script here 📂]
-* **Dataset:** [Raw Vehicle Sales Data 📊]
+* **SQL Scripts:** [View SQL Script here 📂](./project_query.sql)
+* **Dataset:** [Raw Vehicle Sales Data 📊](./Car_sales.csv)
+* **Power BI File:** [Download Dashboard 📉](./Vehicle%20Sales%20Dashboard.pbix)
 
 ---
 
