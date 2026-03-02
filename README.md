@@ -1,8 +1,11 @@
 Vehicle Sales Analysis 🏎️📊
+
 Project Overview
+
 This project focuses on cleaning and analyzing a dataset of vehicle sales and specifications. The goal was to take raw, messy data and transform it into a structured MySQL database for deep analytical insights, eventually visualizing market trends in Power BI.
 
 Data Cleaning Challenges (The "Hard" Part)
+
 The raw data contained several inconsistencies that prevented mathematical analysis. I solved these using SQL:
 
 Date Standardization: Converted string dates like 2-Feb-14 into a standard DATE type using STR_TO_DATE.
